@@ -14,7 +14,7 @@ This project analyzes breast cancer patient data from the METABRIC breast cancer
 
 ## Dataset
 
-**Source:** [METABRIC - Molecular Taxonomy of Breast Cancer](https://www.cbioportal.org/study/summary?id=brca_metabric)  
+**Source:** [METABRIC - Molecular Taxonomy of Breast Cancer]
 - 2,507 patient records  
 - 32 clinical, pathological, and molecular features  
 - Time-to-event (survival months) and survival status included
